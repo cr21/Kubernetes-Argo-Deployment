@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/cr21/Kubernetes-Argo-Deployment.git
-    targetRevision: emlo4
+    targetRevision: main
     path: model-deployments
   destination:
     server: https://kubernetes.default.svc
